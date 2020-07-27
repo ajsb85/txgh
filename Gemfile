@@ -9,7 +9,7 @@ gem "parseconfig", "~> 1.0.2"
 gem 'puma', '~> 2.5.1'
 gem 'rack', '~> 1.5.2'
 gem 'rack-test', '~> 0.6.2'
-gem 'rake', '~> 10.0.3'
+gem 'rake', '~> 12.3.3'
 gem 'rspec', '~> 2.11.0'
 gem 'rspec-mocks', '~> 2.11.2'
 gem 'shotgun', '~> 0.9'
