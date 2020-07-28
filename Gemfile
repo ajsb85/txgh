@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 
 gem 'faraday', '~> 0.8.8'
 gem 'haml', '~> 3.0.25'
-gem 'json', '~> 1.8.0'
+gem 'json', '~> 2.3.0'
 gem 'octokit', '~> 1.24.0'
 gem "parseconfig", "~> 1.0.2"
 gem 'puma', '~> 2.5.1'
